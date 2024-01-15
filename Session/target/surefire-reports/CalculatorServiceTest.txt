@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: CalculatorServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.102 s <<< FAILURE! - in CalculatorServiceTest
+testCalculateDifference(CalculatorServiceTest)  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.NullPointerException
+	at CalculatorServiceTest.testCalculateDifference(CalculatorServiceTest.java:51)
+
+testCalculateSum(CalculatorServiceTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at CalculatorServiceTest.testCalculateSum(CalculatorServiceTest.java:36)
+

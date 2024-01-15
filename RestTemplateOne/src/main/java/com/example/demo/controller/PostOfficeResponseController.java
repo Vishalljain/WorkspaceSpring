@@ -1,0 +1,43 @@
+package com.example.demo.controller;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.Service.PostOfficeResponseService;
+import com.example.demo.entity.PostOfficeResponse;
+
+@RestController
+@RequestMapping("/postoffices")
+public class PostOfficeResponseController {
+	
+	
+	@Autowired
+	PostOfficeResponseService postOfficeResponseService;
+	
+	
+	@GetMapping("/")
+	public List<PostOfficeResponse> getByIdAll() {
+	return postOfficeResponseService.getAllPostOfficeResponse();
+	}
+	
+	@PostMapping("/")
+	public void savePostOfficeResponse(@RequestBody PostOfficeResponse postOfficeResponse) {
+		postOfficeResponseService.savePostOfficeResponse(postOfficeResponse);
+		
+	}
+	
+	@GetMapping("/{id}")
+	public Optional<PostOfficeResponse> getPostOfficeResponseById(@PathVariable int id) {
+		return postOfficeResponseService.getPostOfficeById(id);
+		
+	}
+
+}

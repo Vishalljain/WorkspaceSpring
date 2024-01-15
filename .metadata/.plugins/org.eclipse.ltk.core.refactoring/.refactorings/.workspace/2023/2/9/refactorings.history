@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-data-jpa-springboot&apos; to &apos;spring-data-jpa-springboot-pagination&apos;" description="Rename resource &apos;spring-data-jpa-springboot&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/spring-data-jpa-springboot" name="spring-data-jpa-springboot-pagination" stamp="1677480765815" updateReferences="true"/>
+</session>

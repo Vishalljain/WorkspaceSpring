@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+
+<BorderPane xmlns="http://javafx.com/javafx/15" xmlns:fx="http://javafx.com/fxml/1" fx:controller="FXML1DataController.PersonListController">
+    <center>
+        <TableView fx:id="personTable" prefWidth="300">
+            <columns>
+                <TableColumn text="Name" fx:id="nameColumn" prefWidth="150" />
+                <TableColumn text="Age" fx:id="ageColumn" prefWidth="150" />
+            </columns>
+        </TableView>
+    </center>
+</BorderPane>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Extraction Form</title>
+</head>
+<body>
+    <h1>Data Extraction</h1>
+    <form action="/getDataUser" method="get">
+        <label for="excelFilePath">Excel File Path:</label>
+        <input type="text" id="excelFilePath" name="excelFilePath" /><br/>
+        
+        <label for="textFilePath">Text File Path:</label>
+        <input type="text" id="textFilePath" name="textFilePath" /><br/>
+        
+        <input type="submit" value="Extract Data" />
+    </form>
+</body>
+</html>

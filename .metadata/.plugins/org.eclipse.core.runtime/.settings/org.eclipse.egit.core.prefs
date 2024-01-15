@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\Users\\IXL1KOR\\Documents\\workspace-spring\\spring-boot-security\\.git;C\:\\Users\\IXL1KOR\\Documents\\workspace-spring\\spring-mockito-example\\.git;C\:\\Users\\IXL1KOR\\Documents\\workspace-spring\\spring-data-jpa-springboot\\.git;C\:\\Users\\IXL1KOR\\Documents\\workspace-spring\\Spring-Boot-Crud-Operation-Spring-JPA-MySQL\\.git;C\:\\Users\\IXL1KOR\\Documents\\workspace-spring\\spring-batch-example\\.git;C\:\\Users\\IXL1KOR\\Documents\\workspace-spring\\spring-boot-mockito\\.git;
+GitRepositoriesView.GitDirectories.relative=spring-boot-security\\.git;spring-mockito-example\\.git;spring-data-jpa-springboot\\.git;Spring-Boot-Crud-Operation-Spring-JPA-MySQL\\.git;spring-batch-example\\.git;spring-boot-mockito\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract constant &apos;Get_All_Subject&apos; from expression &apos;&quot;http://localhost:9111/subjects&quot;&apos;&#x0D;&#x0A;- Original project: &apos;SpringBootCrud&apos;&#x0D;&#x0A;- Constant name: &apos;Get_All_Subject&apos;&#x0D;&#x0A;- Constant expression: &apos;&quot;http://localhost:9111/subjects&quot;&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Replace occurrences of expression with constant" description="Extract constant &apos;Get_All_Subject&apos;" flags="786432" id="org.eclipse.jdt.ui.extract.constant" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.xadmin.SpringBootCrud.service{RestTemplateService.java" name="Get_All_Subject" qualify="false" replace="true" selection="917 32" stamp="1669468302995" version="1.0" visibility="2"/>
+</session>

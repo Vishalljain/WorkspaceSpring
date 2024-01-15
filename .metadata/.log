@@ -1,0 +1,531 @@
+!SESSION 2023-10-16 16:10:20.813 -----------------------------------------------
+eclipse.buildId=4.15.1.202206171354
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data C:\Users\IXL1KOR\Documents\workspace-spring -product org.springframework.boot.ide.branding.sts4
+
+This is a continuation of log file C:\Users\IXL1KOR\Documents\workspace-spring\.metadata\.bak_0.log
+Created Time: 2023-10-16 16:10:31.094
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-10-16 16:10:31.098
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'U:\'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:35.614
+!MESSAGE Boot LS startup time from start to initialized: 6539ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.587
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HLLbkXMaisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.706
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.714
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.717
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.718
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.720
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HLLbkXMa => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.785
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.799
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa spring-boot-security false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.801
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.817
+!MESSAGE classpath=32 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.825
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa AllBaisicAnnotation1 false 32
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.827
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.835
+!MESSAGE classpath=32 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.840
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa AllBaisicAnnotation2 false 32
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.843
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.894
+!MESSAGE classpath=84 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.910
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa BasicsCURD false 84
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.912
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.914
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.916
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa DemoSetUp false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.917
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.923
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.927
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa GamePlayer false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.929
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:36.978
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.006
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa LocustDemoLoadBalancing false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.008
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.014
+!MESSAGE classpath=15 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.024
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa MVC false 15
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.025
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.032
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.036
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa MockitoScrapBook false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.038
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.045
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.049
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa OrderProcessingService false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.051
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.072
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.085
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa RestTemplateOne false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.087
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.097
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.108
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa SecurityHeaders false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.110
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.158
+!MESSAGE classpath=115 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.197
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa Spring-Security-JWT false 115
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.199
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.245
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.260
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa SpringBootBackend false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.262
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.276
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.287
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa SpringBootBackendAngularPagination false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.289
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.306
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.325
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa SpringBootCrud false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.327
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.365
+!MESSAGE classpath=131 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.387
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa SwaggerRestApi false 131
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.390
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.403
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.415
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa UdemySpringDataJPA_1 false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.417
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.449
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.463
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa mokito3 false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.465
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.524
+!MESSAGE classpath=120 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.550
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa spring-batch-example false 120
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.553
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.577
+!MESSAGE classpath=111 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.627
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa spring-data-jpa-springboot-pagination false 111
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.629
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.639
+!MESSAGE classpath=84 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.655
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa springBootMockitoPart1 false 84
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.657
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.673
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.687
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa springBootMockitoPart2 false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.689
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.693
+!MESSAGE classpath=44 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.700
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa springMVC false 44
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.702
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.721
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.730
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa springSecuritySeleniumone false 37
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.732
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.801
+!MESSAGE classpath=112 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.857
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa springboot-blog-rest-api false 112
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.859
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.870
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.888
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa springsecurityjdbc false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.891
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.905
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.925
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa springsecurityjdbc2 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.928
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.943
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.954
+!MESSAGE buffering callback sts4.classpath.HLLbkXMa studentmanagement false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:37.958
+!MESSAGE executing callback sts4.classpath.HLLbkXMa 29 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-16 16:10:40.042
+!MESSAGE executing callback sts4.classpath.HLLbkXMa FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-16 16:10:40.043
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.engine 4 0 2023-10-16 16:10:51.301
+!MESSAGE Error parsing profile C:\Users\IXL1KOR\sts-4.15.1.RELEASE\p2\org.eclipse.equinox.p2.engine\profileRegistry\DefaultProfile.profile\1666879018854.profile.gz.
+!STACK 0
+java.io.IOException: Premature end of file.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry$Parser.parse(SimpleProfileRegistry.java:756)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry$Parser.parse(SimpleProfileRegistry.java:742)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.restore(SimpleProfileRegistry.java:550)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileMap(SimpleProfileRegistry.java:380)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.internalGetProfile(SimpleProfileRegistry.java:263)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfile(SimpleProfileRegistry.java:192)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdateScheduler$1.run(AutomaticUpdateScheduler.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 3441; columnNumber: 81; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1251)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry$Parser.parse(SimpleProfileRegistry.java:753)
+	... 7 more
+
+!ENTRY org.eclipse.equinox.p2.engine 4 0 2023-10-16 16:10:51.330
+!MESSAGE Error parsing profile C:\Users\IXL1KOR\sts-4.15.1.RELEASE\p2\org.eclipse.equinox.p2.engine\profileRegistry\DefaultProfile.profile\1666879018854.profile.gz.
+!STACK 0
+java.io.IOException: Premature end of file.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry$Parser.parse(SimpleProfileRegistry.java:756)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry$Parser.parse(SimpleProfileRegistry.java:742)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfile(SimpleProfileRegistry.java:222)
+	at org.eclipse.equinox.internal.p2.engine.SurrogateProfileHandler.getSharedProfile(SurrogateProfileHandler.java:172)
+	at org.eclipse.equinox.internal.p2.engine.SurrogateProfileHandler.createProfile(SurrogateProfileHandler.java:216)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.createSurrogateProfile(SimpleProfileRegistry.java:351)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.internalGetProfile(SimpleProfileRegistry.java:272)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfile(SimpleProfileRegistry.java:192)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdateScheduler$1.run(AutomaticUpdateScheduler.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 3441; columnNumber: 81; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1251)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry$Parser.parse(SimpleProfileRegistry.java:753)
+	... 9 more
+
+!ENTRY org.eclipse.equinox.p2.engine 4 0 2023-10-16 16:10:51.363
+!MESSAGE Error parsing profile C:\Users\IXL1KOR\sts-4.15.1.RELEASE\p2\org.eclipse.equinox.p2.engine\profileRegistry\DefaultProfile.profile\1666879018854.profile.gz.
+!STACK 0
+java.io.IOException: Premature end of file.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry$Parser.parse(SimpleProfileRegistry.java:756)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry$Parser.parse(SimpleProfileRegistry.java:742)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfile(SimpleProfileRegistry.java:222)
+	at org.eclipse.equinox.internal.p2.engine.SurrogateProfileHandler.getSharedProfile(SurrogateProfileHandler.java:172)
+	at org.eclipse.equinox.internal.p2.engine.SurrogateProfileHandler.createProfile(SurrogateProfileHandler.java:216)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.createSurrogateProfile(SimpleProfileRegistry.java:351)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.internalGetProfile(SimpleProfileRegistry.java:272)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfile(SimpleProfileRegistry.java:192)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.containsProfile(SimpleProfileRegistry.java:930)
+	at org.eclipse.equinox.internal.p2.engine.ProfilePreferences.containsProfile(ProfilePreferences.java:115)
+	at org.eclipse.equinox.internal.p2.engine.ProfilePreferences.load(ProfilePreferences.java:260)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:367)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:620)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:759)
+	at org.eclipse.equinox.p2.engine.ProfileScope.getNode(ProfileScope.java:77)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.getStorePreferences(ScopedPreferenceStore.java:213)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.<init>(ScopedPreferenceStore.java:127)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdatePlugin.getPreferenceStore(AutomaticUpdatePlugin.java:139)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdateScheduler.removeUnusedPlugins(AutomaticUpdateScheduler.java:109)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdateScheduler$1.run(AutomaticUpdateScheduler.java:80)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 3441; columnNumber: 81; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1251)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry$Parser.parse(SimpleProfileRegistry.java:753)
+	... 20 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-10-16 16:11:34.299
+!MESSAGE Could not resolve JUnit5 dependency org.junit.platform:junit-platform-launcher:1.8.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.junit.platform:junit-platform-launcher:jar:1.8.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.addResolvedJUnit5Dependency(MavenRuntimeClasspathProvider.java:285)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.addMissingJUnit5ExecutionDependencies(MavenRuntimeClasspathProvider.java:266)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.addMavenClasspathEntries(MavenRuntimeClasspathProvider.java:226)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.resolveClasspath0(MavenRuntimeClasspathProvider.java:179)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.lambda$1(MavenRuntimeClasspathProvider.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.resolveClasspath(MavenRuntimeClasspathProvider.java:161)
+	at org.eclipse.jdt.internal.launching.RuntimeClasspathProvider.resolveClasspath(RuntimeClasspathProvider.java:68)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspath(JavaRuntime.java:1662)
+	at org.eclipse.jdt.launching.AbstractJavaLaunchConfigurationDelegate.getClasspathAndModulepath(AbstractJavaLaunchConfigurationDelegate.java:464)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:649)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getVMRunnerConfiguration(JUnitLaunchConfigurationDelegate.java:196)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:279)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:803)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:716)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1021)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1224)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: org.junit.platform:junit-platform-launcher:jar:1.8.2 failed to transfer from https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer artifact org.junit.platform:junit-platform-launcher:jar:1.8.2 from/to central (https://repo.maven.apache.org/maven2): Failed to connect to /127.0.0.1:3128
+org.eclipse.aether.transfer.ArtifactTransferException: org.junit.platform:junit-platform-launcher:jar:1.8.2 failed to transfer from https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer artifact org.junit.platform:junit-platform-launcher:jar:1.8.2 from/to central (https://repo.maven.apache.org/maven2): Failed to connect to /127.0.0.1:3128
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:225)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:189)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:574)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:484)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:402)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:229)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:207)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:262)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.addResolvedJUnit5Dependency(MavenRuntimeClasspathProvider.java:285)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.addMissingJUnit5ExecutionDependencies(MavenRuntimeClasspathProvider.java:266)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.addMavenClasspathEntries(MavenRuntimeClasspathProvider.java:226)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.resolveClasspath0(MavenRuntimeClasspathProvider.java:179)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.lambda$1(MavenRuntimeClasspathProvider.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.resolveClasspath(MavenRuntimeClasspathProvider.java:161)
+	at org.eclipse.jdt.internal.launching.RuntimeClasspathProvider.resolveClasspath(RuntimeClasspathProvider.java:68)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspath(JavaRuntime.java:1662)
+	at org.eclipse.jdt.launching.AbstractJavaLaunchConfigurationDelegate.getClasspathAndModulepath(AbstractJavaLaunchConfigurationDelegate.java:464)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:649)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getVMRunnerConfiguration(JUnitLaunchConfigurationDelegate.java:196)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:279)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:803)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:716)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1021)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1224)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2023-10-16 16:11:34.300
+!MESSAGE Could not resolve artifact org.junit.platform:junit-platform-launcher:jar:1.8.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2023-10-16 16:11:34.300
+!MESSAGE org.junit.platform:junit-platform-launcher:jar:1.8.2 failed to transfer from https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer artifact org.junit.platform:junit-platform-launcher:jar:1.8.2 from/to central (https://repo.maven.apache.org/maven2): Failed to connect to /127.0.0.1:3128
+!STACK 0
+org.eclipse.aether.transfer.ArtifactTransferException: org.junit.platform:junit-platform-launcher:jar:1.8.2 failed to transfer from https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer artifact org.junit.platform:junit-platform-launcher:jar:1.8.2 from/to central (https://repo.maven.apache.org/maven2): Failed to connect to /127.0.0.1:3128
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:225)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:189)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:574)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:484)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:402)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:229)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:207)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:262)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.addResolvedJUnit5Dependency(MavenRuntimeClasspathProvider.java:285)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.addMissingJUnit5ExecutionDependencies(MavenRuntimeClasspathProvider.java:266)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.addMavenClasspathEntries(MavenRuntimeClasspathProvider.java:226)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.resolveClasspath0(MavenRuntimeClasspathProvider.java:179)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.lambda$1(MavenRuntimeClasspathProvider.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.resolveClasspath(MavenRuntimeClasspathProvider.java:161)
+	at org.eclipse.jdt.internal.launching.RuntimeClasspathProvider.resolveClasspath(RuntimeClasspathProvider.java:68)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspath(JavaRuntime.java:1662)
+	at org.eclipse.jdt.launching.AbstractJavaLaunchConfigurationDelegate.getClasspathAndModulepath(AbstractJavaLaunchConfigurationDelegate.java:464)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getClasspathAndModulepath(JUnitLaunchConfigurationDelegate.java:649)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.getVMRunnerConfiguration(JUnitLaunchConfigurationDelegate.java:196)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationDelegate.launch(JUnitLaunchConfigurationDelegate.java:279)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:803)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:716)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1021)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1224)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:11:34.811
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:11:34.816
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:11:36.188
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:11:36.191
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:11:43.385
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:11:43.392
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:12:14.602
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:12:14.604
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:12:15.492
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:12:15.495
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:12:21.298
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-16 16:12:21.301
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui 2 2 2023-10-16 17:15:40.085
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)

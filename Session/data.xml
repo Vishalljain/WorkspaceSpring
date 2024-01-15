@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataEntities>
+    <entity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="person">
+        <age>30</age>
+        <city>New York</city>
+        <id>1</id>
+        <name>John</name>
+        <parentsName>Doe</parentsName>
+    </entity>
+    <entity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="employee">
+        <city>San Francisco</city>
+        <id>2</id>
+        <name>Alice</name>
+    </entity>
+</dataEntities>
